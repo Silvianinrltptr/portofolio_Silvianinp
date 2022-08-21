@@ -33,28 +33,23 @@ const Skills = () => {
                 <span className="skills__name">JAVASCRIPT(basic) </span>
               </div>
             </div>
+           
             <div className="skills__data">
               <div className="skills__names">
-                <i className="bx bxl-nodejs skills__icon"></i>
-                <span className="skills__name"></span>
+                <i className="bx bxl-react skills__icon"></i>
+                <span className="skills__name">SELENIUM</span>
               </div>
             </div>
             <div className="skills__data">
               <div className="skills__names">
                 <i className="bx bxl-react skills__icon"></i>
-                <span className="skills__name">Selenium</span>
+                <span className="skills__name">API AUTOMATION</span>
               </div>
             </div>
             <div className="skills__data">
               <div className="skills__names">
                 <i className="bx bxl-react skills__icon"></i>
-                <span className="skills__name">API Automation</span>
-              </div>
-            </div>
-            <div className="skills__data">
-              <div className="skills__names">
-                <i className="bx bxl-react skills__icon"></i>
-                <span className="skills__name">Git</span>
+                <span className="skills__name">GIT</span>
               </div>
             </div>
             <div className="skills__data">
@@ -66,21 +61,21 @@ const Skills = () => {
             <div className="skills__data">
               <div className="skills__names">
                 <i class="bx bxl-vuejs skills__icon"></i>
-                <span className="skills__name">Loadtest</span>
+                <span className="skills__name">LOADTEST</span>
               </div>
             </div>
 
             <div className="skills__data">
               <div className="skills__names">
                 <i class="bx bxl-vuejs skills__icon"></i>
-                <span className="skills__name">Cypress</span>
+                <span className="skills__name">CYPRESS</span>
               </div>
             </div>
 
             <div className="skills__data">
               <div className="skills__names">
                 <i class="bx bxl-vuejs skills__icon"></i>
-                <span className="skills__name">KatalonStudio</span>
+                <span className="skills__name">KATALON STUDIO</span>
               </div>
             </div>
 

@@ -17,12 +17,9 @@ const About = () => {
               Saya Silviani Nurlita Putri
             </h2>
             <p className="about__text">
-              Saya adalah orang yang memiliki motivasi tinggi dalam bekerja,
-              memiliki komunikasi yang baik dan cepat belajar hal-hal baru. Saya
-              sangat menyukai tantangan. Saya memiliki ketertarikan dengan dunia
-              teknologi. Saya tertarik belajar hal baru. Saya senang mencari
-              solusi atau menyelesaikan masalah dalam program, gadget maupun
-              kehidupan.
+            an IT freshgraduates who are interested and want to learn about testing 
+            applications or websites. skilled as Manual API and automationfor 
+            web and mobile have experience as developer with basic javascript language.
             </p>
           </div>
         </div>
