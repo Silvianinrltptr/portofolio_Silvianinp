@@ -13,10 +13,10 @@ const Certificate = () => {
           <Card
             hoverable
             className="certificate__img"
-            style={{ width: 300 }}
+            style={{ width: 310 }}
             cover={
               <Image
-                width={300}
+                width={310}
                 height={200}
                 style={{
                   objectFit: "contain",
@@ -85,10 +85,10 @@ const Certificate = () => {
           <Card
             hoverable
             className="certificate__img"
-            style={{ width: 300 }}
+            style={{ width: 310 }}
             cover={
               <Image
-                width={300}
+                width={310}
                 height={200}
                 style={{
                   objectFit: "contain",
