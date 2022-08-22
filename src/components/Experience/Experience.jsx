@@ -45,7 +45,7 @@ const Experience = () => {
             cover={
               <img
                 alt="example"
-                src="assets/projek/finx.png"
+                src="assets/projek/yopmail.png"
                 style={{
                   width: "300px",
                   objectFit: "contain",
@@ -73,7 +73,7 @@ const Experience = () => {
             cover={
               <img
                 alt="example"
-                src="assets/projek/yopmail.png"
+                src="assets/projek/soucedemo.png"
                 style={{
                   width: "300px",
                   objectFit: "contain",
@@ -108,7 +108,7 @@ const Experience = () => {
             cover={
               <img
                 alt="example"
-                src="assets/projek/soucedemo.png"
+                src="assets/projek/statingengineer.png"
                 style={{
                   width: "300px",
                   objectFit: "contain",
@@ -134,7 +134,7 @@ const Experience = () => {
             cover={
               <img
                 alt="example"
-                src="assets/projek/statingengineer.png"
+                src="assets/projek/BWA.png"
                 style={{
                   width: "300px",
                   objectFit: "contain",
