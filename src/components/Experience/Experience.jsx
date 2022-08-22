@@ -30,9 +30,9 @@ const Experience = () => {
               description={
                 <>
                   <p>
-                    Program magang di Telkom Witel STO Gambir membuat ui/ux Website
-                    Management proker telkom sto gambir arnet menggunakan figma 
-                    untuk membuat situs web menggunakan react.js dan express.js
+                    The Internship Program at STO Telkom Witel Gambir makes a ui/ux Website
+                    Telkom project management sto gambir arnet using figma
+                    to create a website using react.js and express.js.
                   </p>
                 </>
               }
@@ -54,12 +54,13 @@ const Experience = () => {
             }
           >
             <Meta
-              title="Finx"
+              title="yopmail.com"
               description={
                 <>
                   <p>
-                    Program magang di Sagara Technology membuat Website FinX
-                    menggunakan react js dan next js
+                  Bootcamp in <b>jakartalas</b> Created test automation on login using Selenium on Yop Mail website and added
+                  scenario when enter test automation as email then click arrow button,
+                  Use iframe switch to get inbox content, after that Syso content from inbox.
                   </p>
                 </>
               }
@@ -72,7 +73,7 @@ const Experience = () => {
             cover={
               <img
                 alt="example"
-                src="assets/projek/pasarmusi.png"
+                src="assets/projek/yopmail.png"
                 style={{
                   width: "300px",
                   objectFit: "contain",
@@ -82,12 +83,12 @@ const Experience = () => {
             }
           >
             <Meta
-              title="Pasar Musi"
+              title="saucedemo.com"
               description={
                 <>
                   <p>
-                    Membuat Aplikasi penjualan barang-barang pasar, menggunakan
-                    next js dan react native
+                  Bootcamp in <b>jakartalas</b> Open website saucedemo.com and build automation until
+                  finish with method POM or method page factory
                   </p>
                   <a
                     href="https://online.pasarmusibaru.co.id/"
@@ -107,7 +108,7 @@ const Experience = () => {
             cover={
               <img
                 alt="example"
-                src="assets/projek/udanahomepage.png"
+                src="assets/projek/soucedemo.png"
                 style={{
                   width: "300px",
                   objectFit: "contain",
@@ -116,10 +117,12 @@ const Experience = () => {
             }
           >
             <Meta
-              title="Udana.id"
+              title="statingengineer"
               description={
                 <>
-                  <p>Halaman Homepage udana.id, menggunakan angular js</p>
+                  <p> Bootcamp in <b>jakartalas</b> Create automation using rest assured and selenium in API engineer.ai, 
+                    where the scenario is when at https://api-production-builder.engineer.ai/users 
+                    User faker to create a dummy email, dummy name, and dummy phone number, Assert to get 200OK.</p>
                 </>
               }
             />
@@ -131,7 +134,7 @@ const Experience = () => {
             cover={
               <img
                 alt="example"
-                src="assets/projek/blogudana.png"
+                src="assets/projek/statingengineer.png"
                 style={{
                   width: "300px",
                   objectFit: "contain",
@@ -140,10 +143,10 @@ const Experience = () => {
             }
           >
             <Meta
-              title="Udana Blog"
+              title="React-Gallery with Cypress"
               description={
                 <>
-                  <p>Halaman blog udana, menggunakan next js</p>
+                  <p>online resource at Build with Angga Make a QA Engineer with cypress</p>
                 </>
               }
             />
@@ -155,7 +158,7 @@ const Experience = () => {
             cover={
               <img
                 alt="example"
-                src="assets/projek/rindangpari.png"
+                src="assets/projek/BWA.png"
                 style={{
                   width: "300px",
                   objectFit: "contain",
