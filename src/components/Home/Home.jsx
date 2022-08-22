@@ -29,7 +29,7 @@ const Home = () => {
               Contact
             </a>
             <a
-              href="https://drive.google.com/file/d/1_Y6xzUXvfY49jeKU60IqWrYUqjbTBGbH/view?usp=sharing"
+              href="https://drive.google.com/file/d/1bDXdP7dqhxeWUpQpc1NLkjlh10vkoL-5/view?usp=sharing"
               target="_blank"
               className="button"
             >
