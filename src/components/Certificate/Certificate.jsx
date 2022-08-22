@@ -22,13 +22,13 @@ const Certificate = () => {
                   objectFit: "contain",
                   padding: 8,
                 }}
-                src="/assets/certificate/mern2021.jpg"
+                src="/assets/certificate/cypress.png"
               />
             }
           >
-            <Meta title="Fullstack MERN 2021" description={false} />
+            <Meta title="QA Engineer Testing with cypress" description={false} />
           </Card>
-          <Card
+          {/* <Card
             hoverable
             className="certificate__img"
             style={{ width: 300 }}
@@ -81,7 +81,7 @@ const Certificate = () => {
             }
           >
             <Meta title="Full-Stack Golang & Vue JS" description={false} />
-          </Card>
+          </Card> */}
           <Card
             hoverable
             className="certificate__img"
@@ -98,7 +98,7 @@ const Certificate = () => {
               />
             }
           >
-            <Meta title="Laravel Vue JS" description={false} />
+            <Meta title="QA Automation in jakartaLabs" description={false} />
           </Card>
         </div>
       </section>

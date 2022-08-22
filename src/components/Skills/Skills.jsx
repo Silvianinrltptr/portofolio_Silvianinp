@@ -30,7 +30,7 @@ const Skills = () => {
             <div className="skills__data">
               <div className="skills__names">
                 <i className="bx bxl-javascript skills__icon"></i>
-                <span className="skills__name">JAVASCRIPT(basic) </span>
+                <span className="skills__name">JAVA (basic) </span>
               </div>
             </div>
            
@@ -82,7 +82,7 @@ const Skills = () => {
             <div className="skills__data">
               <div className="skills__names">
                 <i className="bx bxs-paint skills__icon"></i>
-                <span className="skills__name">UX/UI</span>
+                <span className="skills__name">UI/UX</span>
               </div>
             </div>
           </div>

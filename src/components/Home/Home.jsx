@@ -16,11 +16,11 @@ const Home = () => {
               Halo,
               <br />
               Saya <span className="home__title-color">Silviani</span>
-              <br /> QA Tester
+              <br /> QA AUTOMATION
             </h1>
 
             <a
-              href="https://api.whatsapp.com/send?phone=62895368567925&text=haloo"
+              href="https://api.whatsapp.com/send?phone=6288709717898&text=haloo"
               target="_blank"
               className="button"
               style={{ marginRight: "5px" }}
@@ -29,7 +29,7 @@ const Home = () => {
               Contact
             </a>
             <a
-              href="https://drive.google.com/file/d/1UGNCtftMHWP6KnpE24XzTf77CWcbEdWS/view?usp=sharing"
+              href="https://drive.google.com/file/d/1_Y6xzUXvfY49jeKU60IqWrYUqjbTBGbH/view?usp=sharing"
               target="_blank"
               className="button"
             >

@@ -13,13 +13,13 @@ const Experience = () => {
           <Card
             hoverable
             className="work__img"
-            style={{ width: 300 }}
+            style={{ width: 310 }}
             cover={
               <img
                 alt="example"
                 src="assets/projek/telkom.png"
                 style={{
-                  width: "300px",
+                  width: "310px",
                   objectFit: "contain",
                 }}
               />
@@ -41,13 +41,13 @@ const Experience = () => {
           <Card
             hoverable
             className="work__img"
-            style={{ width: 300 }}
+            style={{ width: 310 }}
             cover={
               <img
                 alt="example"
                 src="assets/projek/yopmail.png"
                 style={{
-                  width: "300px",
+                  width: "310px",
                   objectFit: "contain",
                 }}
               />
@@ -58,9 +58,10 @@ const Experience = () => {
               description={
                 <>
                   <p>
-                  Bootcamp in <b>jakartalas</b> Created test automation on login using Selenium on Yop Mail website and added
-                  scenario when enter test automation as email then click arrow button,
-                  Use iframe switch to get inbox content, after that Syso content from inbox.
+                  Bootcamp in <b>jakartalabs</b> Created test automation on login using 
+                  Selenium on Yop Mail website and added scenario when enter test automation 
+                  as email then click arrow button, Use iframe switch to get inbox content, 
+                  after that Syso content from inbox.
                   </p>
                 </>
               }
@@ -69,13 +70,13 @@ const Experience = () => {
           <Card
             hoverable
             className="work__img"
-            style={{ width: 300 }}
+            style={{ width: 318 }}
             cover={
               <img
                 alt="example"
                 src="assets/projek/soucedemo.png"
                 style={{
-                  width: "300px",
+                  width: "310px",
                   objectFit: "contain",
                   height: "150px",
                 }}
@@ -87,16 +88,9 @@ const Experience = () => {
               description={
                 <>
                   <p>
-                  Bootcamp in <b>jakartalas</b> Open website saucedemo.com and build automation until
+                  Bootcamp in <b>jakartalabs</b> Create automation Open website saucedemo.com and build automation until
                   finish with method POM or method page factory
                   </p>
-                  <a
-                    href="https://online.pasarmusibaru.co.id/"
-                    target="_blank"
-                    rel="noreferrer"
-                  >
-                    Lihat lebih lanjut
-                  </a>
                 </>
               }
             />
@@ -104,23 +98,23 @@ const Experience = () => {
           <Card
             hoverable
             className="work__img"
-            style={{ width: 300 }}
+            style={{ width: 317 }}
             cover={
               <img
                 alt="example"
                 src="assets/projek/statingengineer.png"
                 style={{
-                  width: "300px",
+                  width: "310px",
                   objectFit: "contain",
                 }}
               />
             }
           >
             <Meta
-              title="statingengineer"
+              title="staging.engineer"
               description={
                 <>
-                  <p> Bootcamp in <b>jakartalas</b> Create automation using rest assured and selenium in API engineer.ai, 
+                  <p> Bootcamp in <b>jakartalabs</b> Create automation using rest assured and selenium in API engineer.ai, 
                     where the scenario is when at https://api-production-builder.engineer.ai/users 
                     User faker to create a dummy email, dummy name, and dummy phone number, Assert to get 200OK.</p>
                 </>
@@ -130,13 +124,13 @@ const Experience = () => {
           <Card
             hoverable
             className="work__img"
-            style={{ width: 300 }}
+            style={{ width: 310 }}
             cover={
               <img
                 alt="example"
                 src="assets/projek/BWA.png"
                 style={{
-                  width: "300px",
+                  width: "310px",
                   objectFit: "contain",
                 }}
               />
@@ -147,40 +141,6 @@ const Experience = () => {
               description={
                 <>
                   <p>online resource at Build with Angga Make a QA Engineer with cypress</p>
-                </>
-              }
-            />
-          </Card>
-          <Card
-            hoverable
-            className="work__img"
-            style={{ width: 300 }}
-            cover={
-              <img
-                alt="example"
-                src="assets/projek/BWA.png"
-                style={{
-                  width: "300px",
-                  objectFit: "contain",
-                  height: "150px",
-                }}
-              />
-            }
-          >
-            <Meta
-              title="PT Rindang Pari Cahaya Buana"
-              description={
-                <>
-                  <p>
-                    Membuat Company Profile PT Rindang Pari Cahaya Buana Next.js
-                  </p>
-                  <a
-                    href="https://rindangparicb.co.id/"
-                    target="_blank"
-                    rel="noreferrer"
-                  >
-                    Lihat lebih lanjut
-                  </a>
                 </>
               }
             />
