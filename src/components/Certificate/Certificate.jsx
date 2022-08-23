@@ -10,27 +10,7 @@ const Certificate = () => {
         <h2 className="section-title">Certificate</h2>
 
         <div className="certificate__container bd-grid">
-          <Card
-            hoverable
-            className="certificate__img"
-            style={{ width: 310 }}
-            cover={
-              <Image
-                width={310}
-                height={200}
-                style={{
-                  objectFit: "contain",
-                  padding: 8,
-                }}
-                src="/assets/certificate/cypress.png"
-              />
-            }
-          >
-            <Meta
-              title={"Quality Assurance Engineer Testing with cypress"}
-              description={false}
-            />
-          </Card>
+          
           {/* <Card
             hoverable
             className="certificate__img"
@@ -97,12 +77,56 @@ const Certificate = () => {
                   objectFit: "contain",
                   padding: 8,
                 }}
+                src="/assets/certificate/Silviani Nurlita Putri qa.png"
+              />
+            }
+          >
+            <Meta
+              title=" Full Stack Quality Assurance Automation Testing"
+              description={false}
+            />
+          </Card>
+
+          <Card
+            hoverable
+            className="certificate__img"
+            style={{ width: 310 }}
+            cover={
+              <Image
+                width={310}
+                height={200}
+                style={{
+                  objectFit: "contain",
+                  padding: 8,
+                }}
+                src="/assets/certificate/Silviani Nurlita Putri.png"
+              />
+            }
+          >
+            <Meta
+              title=" Transcript Full Stack Quality Assurance Automation Testing"
+              description={false}
+            />
+          </Card>
+
+          <Card
+            hoverable
+            className="certificate__img"
+            style={{ width: 310 }}
+            cover={
+              <Image
+                width={310}
+                height={200}
+                style={{
+                  objectFit: "contain",
+                  padding: 8,
+                }}
                 src="/assets/certificate/cypress.png"
               />
             }
           >
             <Meta
-              title=" Full Stack Quality Assurance Automation Testing in jakartaLabs"
+              title={"Quality Assurance Engineer Testing with cypress"}
               description={false}
             />
           </Card>
