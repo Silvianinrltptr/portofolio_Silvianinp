@@ -104,7 +104,7 @@ const Certificate = () => {
             }
           >
             <Meta
-              title=" Transcript Full Stack Quality Assurance Automation Testing"
+              title=" QA Automation bootcamp transcript at JakartaLabs, I won the top 3 best students"
               description={false}
             />
           </Card>
