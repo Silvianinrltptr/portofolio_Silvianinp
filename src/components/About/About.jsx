@@ -17,9 +17,11 @@ const About = () => {
               Saya Silviani Nurlita Putri
             </h2>
             <p className="about__text">
-            an IT freshgraduates who are interested and want to learn about testing 
-            applications or websites. skilled as Manual API and automationfor 
-            web and mobile have experience as developer with basic javascript language.
+            I am a fresh graduate who is interested in the world of technology, 
+            interested in learning new things. I like to find solutions or solve 
+            problems in programs, gadgets, or life. who want a career in the world of 
+            software quality assurance by having Software Quality Assurance skills basic 
+            java, selenium, testNg, api automation, etc.
             </p>
           </div>
         </div>

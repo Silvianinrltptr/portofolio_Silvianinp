@@ -93,6 +93,7 @@ const Skills = () => {
                 </span>
               </div>
             </div>
+            
 
             <div className="skills__data">
               <div className="skills__names">
@@ -101,6 +102,7 @@ const Skills = () => {
               </div>
             </div>
           </div>
+          
 
           <div>
             <img src="assets/img/work3.jpg" alt="" className="skills__img" />
