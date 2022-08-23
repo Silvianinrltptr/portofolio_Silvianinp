@@ -147,7 +147,7 @@ const Certificate = () => {
             }
           >
             <Meta
-              title={"INTERNSHIP AT TELKOM"}
+              title={"Internship at Telkom"}
               description={false}
             />
           </Card>
