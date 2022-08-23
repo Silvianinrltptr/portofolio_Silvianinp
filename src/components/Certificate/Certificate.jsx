@@ -130,6 +130,27 @@ const Certificate = () => {
               description={false}
             />
           </Card>
+          <Card
+            hoverable
+            className="certificate__img"
+            style={{ width: 310 }}
+            cover={
+              <Image
+                width={310}
+                height={200}
+                style={{
+                  objectFit: "contain",
+                  padding: 8,
+                }}
+                src="/assets/certificate/RISET SURAT.png"
+              />
+            }
+          >
+            <Meta
+              title={"INTERNSHIP AT TELKOM"}
+              description={false}
+            />
+          </Card>
         </div>
       </section>
     </div>
