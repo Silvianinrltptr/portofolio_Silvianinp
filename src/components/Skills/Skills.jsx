@@ -30,52 +30,67 @@ const Skills = () => {
             <div className="skills__data">
               <div className="skills__names">
                 <i className="bx bxl-javascript skills__icon"></i>
+                <span className="skills__name">JAVASCRIPT (basic) </span>
+              </div>
+            </div>
+            <div className="skills__data">
+              <div className="skills__names">
+                <img src="/assets/img/java.svg" alt="" />
+                <i className="skills__icon"></i>
                 <span className="skills__name">JAVA (basic) </span>
               </div>
             </div>
-           
+
             <div className="skills__data">
               <div className="skills__names">
-                <i className="bx bxl-react skills__icon"></i>
+                <img src="/assets/img/selenium.svg" alt="" />
+                <i className="skills__icon"></i>
                 <span className="skills__name">SELENIUM</span>
               </div>
             </div>
             <div className="skills__data">
               <div className="skills__names">
-                <i className="bx bxl-react skills__icon"></i>
+                <img src="/assets/img/rest-api.svg" alt="" />
+                <i className="skills__icon"></i>
                 <span className="skills__name">API AUTOMATION</span>
               </div>
             </div>
             <div className="skills__data">
               <div className="skills__names">
-                <i className="bx bxl-react skills__icon"></i>
+                <i className="bx bxl-git skills__icon"></i>
                 <span className="skills__name">GIT</span>
               </div>
             </div>
             <div className="skills__data">
               <div className="skills__names">
-                <i className="bx bxl-angular skills__icon"></i>
+                <img src="/assets/img/cicd.svg" alt="" />
+                <i className="skills__icon"></i>
                 <span className="skills__name">CI/CD</span>
               </div>
             </div>
             <div className="skills__data">
               <div className="skills__names">
-                <i class="bx bxl-vuejs skills__icon"></i>
+                <img src="/assets/img/loadtest.svg" alt="" />
+                <i class="skills__icon"></i>
                 <span className="skills__name">LOADTEST</span>
               </div>
             </div>
 
             <div className="skills__data">
               <div className="skills__names">
-                <i class="bx bxl-vuejs skills__icon"></i>
+                <img src="/assets/img/cypress.svg" alt="" />
+                <i class="skills__icon"></i>
                 <span className="skills__name">CYPRESS</span>
               </div>
             </div>
 
             <div className="skills__data">
               <div className="skills__names">
-                <i class="bx bxl-vuejs skills__icon"></i>
-                <span className="skills__name">KATALON STUDIO</span>
+                <img src="/assets/img/katalon.svg" alt="" />
+                <i class="skills__icon"></i>
+                <span className="skills__name" style={{ marginTop: 5 }}>
+                  KATALON STUDIO
+                </span>
               </div>
             </div>
 

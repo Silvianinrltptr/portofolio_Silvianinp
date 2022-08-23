@@ -26,7 +26,10 @@ const Certificate = () => {
               />
             }
           >
-            <Meta title="Quality Assurance Engineer Testing with cypress" description={false} />
+            <Meta
+              title={"Quality Assurance Engineer Testing with cypress"}
+              description={false}
+            />
           </Card>
           {/* <Card
             hoverable
@@ -98,7 +101,10 @@ const Certificate = () => {
               />
             }
           >
-            <Meta title=" Full Stack Quality Assurance Automation Testing in jakartaLabs" description={false} />
+            <Meta
+              title=" Full Stack Quality Assurance Automation Testing in jakartaLabs"
+              description={false}
+            />
           </Card>
         </div>
       </section>
