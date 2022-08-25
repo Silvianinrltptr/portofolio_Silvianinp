@@ -20,7 +20,7 @@ const About = () => {
             I am a fresh graduate who is interested in the world of technology, 
             interested in learning new things. I like to find solutions or solve 
             problems in programs, gadgets, or life. who want a career in the world of 
-            software quality assurance by having Software Quality Assurance skills basic 
+            quality assurance by having Software Quality Assurance skills basic 
             java, selenium, testNg, api automation, etc.
             </p>
           </div>
