@@ -88,8 +88,16 @@ const Skills = () => {
               <div className="skills__names">
                 <img src="/assets/img/katalon.svg" alt="" />
                 <i class="skills__icon"></i>
+                <span className="skills__name">KATALON STUDIO</span>
+              </div>
+            </div>
+
+            <div className="skills__data">
+              <div className="skills__names">
+                <img src="/assets/img/office_icon.svg" alt="" />
+                <i class="skills__icon"></i>
                 <span className="skills__name" style={{ marginTop: 5 }}>
-                  KATALON STUDIO
+                  MICROSOFTOFFICE
                 </span>
               </div>
             </div>
@@ -102,6 +110,8 @@ const Skills = () => {
               </div>
             </div>
           </div>
+
+          
           
 
           <div>
