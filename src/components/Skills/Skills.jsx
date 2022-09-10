@@ -48,6 +48,15 @@ const Skills = () => {
                 <span className="skills__name">SELENIUM</span>
               </div>
             </div>
+
+            <div className="skills__data">
+              <div className="skills__names">
+                <img src="/assets/img/katalon.svg" alt="" />
+                <i class="skills__icon"></i>
+                <span className="skills__name">KATALON STUDIO</span>
+              </div>
+            </div>
+            
             <div className="skills__data">
               <div className="skills__names">
                 <img src="/assets/img/rest-api.svg" alt="" />
@@ -84,13 +93,7 @@ const Skills = () => {
               </div>
             </div>
 
-            <div className="skills__data">
-              <div className="skills__names">
-                <img src="/assets/img/katalon.svg" alt="" />
-                <i class="skills__icon"></i>
-                <span className="skills__name">KATALON STUDIO</span>
-              </div>
-            </div>
+            
 
             <div className="skills__data">
               <div className="skills__names">
