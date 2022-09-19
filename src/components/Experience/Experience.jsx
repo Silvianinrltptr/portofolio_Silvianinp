@@ -162,7 +162,7 @@ const Experience = () => {
             }
           >
             <Meta
-              title="Moproker Testing with Katalon studio"
+              title="Moproker with Katalon studio"
               description={
                 <>
                   <p>perform an automation test using Katalon Studio from the Moproker Telkom website until the finish</p>
