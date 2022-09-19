@@ -16,7 +16,7 @@ const Home = () => {
               Halo,
               <br />
               Saya <span className="home__title-color">Silviani</span>
-              <br />Quality Assurance Tester
+              <br />Software Quality Assurance Testing
             </h1>
 
             <a
@@ -29,7 +29,7 @@ const Home = () => {
               Contact
             </a>
             <a
-              href="https://drive.google.com/file/d/1bDXdP7dqhxeWUpQpc1NLkjlh10vkoL-5/view?usp=sharing"
+              href="https://drive.google.com/file/d/1AbApOP8k404mOnNJZuSRNrZklKZl8KIZ/view?usp=sharing"
               target="_blank"
               className="button"
             >
