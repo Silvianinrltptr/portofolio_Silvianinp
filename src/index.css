@@ -136,7 +136,7 @@ img {
 .button {
   display: inline-block;
   background-color: var(--first-color);
-  color: rgb(104, 102, 102);
+  color: rgb(230, 227, 227);
   padding: 0.75rem 2.5rem;
   font-weight: var(--font-semi);
   border-radius: 0.5rem;
