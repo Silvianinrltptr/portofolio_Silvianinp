@@ -7,7 +7,7 @@ const Experience = () => {
   return (
     <div>
       <section className="work section" id="work">
-        <h2 className="section-title">Experience</h2>
+        <h2 className="section-title">Experience Project</h2>
 
         <div className="work__container bd-grid">
           <Card
@@ -141,6 +141,31 @@ const Experience = () => {
               description={
                 <>
                   <p>online resource at Build with Angga Make a QA Engineer with cypress</p>
+                </>
+              }
+            />
+          </Card>
+
+          <Card
+            hoverable
+            className="work__img"
+            style={{ width: 310 }}
+            cover={
+              <img
+                alt="example"
+                src="assets/projek/TelkomKatalon.png"
+                style={{
+                  width: "310px",
+                  objectFit: "contain",
+                }}
+              />
+            }
+          >
+            <Meta
+              title="Moproker Testing with Katalon studio"
+              description={
+                <>
+                  <p>perform an automation test using Katalon Studio from the Moproker Telkom website until the finish</p>
                 </>
               }
             />
