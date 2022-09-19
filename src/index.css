@@ -129,7 +129,7 @@ img {
   left: 0;
   z-index: var(--z-fixed);
   background-color: rgb(235, 88, 137);
-  box-shadow: 0 1px 4px rgba(146, 161, 176, 0.15);
+  box-shadow: 0 1px 4px rgb(243, 243, 243);
 }
 
 /*BUTTONS*/
