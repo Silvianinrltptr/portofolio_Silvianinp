@@ -16,7 +16,7 @@ const Home = () => {
               Hallo,
               <br />
               Saya <span className="home__title-color">Silviani</span>
-              <br />Software Quality Assurance
+              <br />Associate QA Engineer
             </h1>
 
             <a
