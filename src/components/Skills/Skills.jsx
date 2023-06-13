@@ -15,37 +15,26 @@ const Skills = () => {
               optio id vero amet, alias architecto consectetur error eum eaque
               sit.
             </p> */}
-            <div className="skills__data">
-              <div className="skills__names">
-                <i className="bx bxl-html5 skills__icon"></i>
-                <span className="skills__name">HTML5</span>
-              </div>
-            </div>
-            <div className="skills__data">
-              <div className="skills__names">
-                <i className="bx bxl-css3 skills__icon"></i>
-                <span className="skills__name">CSS3</span>
-              </div>
-            </div>
+
             <div className="skills__data">
               <div className="skills__names">
                 <i className="bx bxl-javascript skills__icon"></i>
-                <span className="skills__name">JAVASCRIPT (basic) </span>
+                <span className="skills__name">JAVASCRIPT basic</span>
               </div>
             </div>
             <div className="skills__data">
               <div className="skills__names">
                 <img src="/assets/img/java.svg" alt="" />
                 <i className="skills__icon"></i>
-                <span className="skills__name">JAVA (basic) </span>
+                <span className="skills__name">JAVA basic </span>
               </div>
             </div>
 
             <div className="skills__data">
               <div className="skills__names">
-                <img src="/assets/img/selenium.svg" alt="" />
+                <img src="/assets/img/puppeteer.svg" alt="" />
                 <i className="skills__icon"></i>
-                <span className="skills__name">SELENIUM</span>
+                <span className="skills__name">PUPPETEER MOCHA</span>
               </div>
             </div>
 
@@ -56,7 +45,37 @@ const Skills = () => {
                 <span className="skills__name">KATALON STUDIO</span>
               </div>
             </div>
-            
+
+            <div className="skills__data">
+              <div className="skills__names">
+                <img src="/assets/img/testProject.svg" alt="" />
+                <i class="skills__icon"></i>
+                <span className="skills__name">TEST PROJECT</span>
+              </div>
+            </div>
+            <div className="skills__data">
+              <div className="skills__names">
+                <img src="/assets/img/cucumber.svg" alt="" />
+                <i class="skills__icon"></i>
+                <span className="skills__name">CUCUMBER</span>
+              </div>
+            </div>
+            <div className="skills__data">
+              <div className="skills__names">
+                <img src="/assets/img/selenium.svg" alt="" />
+                <i className="skills__icon"></i>
+                <span className="skills__name">SELENIUM IDE</span>
+              </div>
+            </div>
+
+            <div className="skills__data">
+              <div className="skills__names">
+                <img src="/assets/img/postman.svg" alt="" />
+                <i class="skills__icon"></i>
+                <span className="skills__name">POSTMAN</span>
+              </div>
+            </div>
+
             <div className="skills__data">
               <div className="skills__names">
                 <img src="/assets/img/rest-api.svg" alt="" />
@@ -72,28 +91,11 @@ const Skills = () => {
             </div>
             <div className="skills__data">
               <div className="skills__names">
-                <img src="/assets/img/cicd.svg" alt="" />
-                <i className="skills__icon"></i>
-                <span className="skills__name">CI/CD</span>
-              </div>
-            </div>
-            <div className="skills__data">
-              <div className="skills__names">
-                <img src="/assets/img/loadtest.svg" alt="" />
-                <i class="skills__icon"></i>
-                <span className="skills__name">LOADTEST</span>
-              </div>
-            </div>
-
-            <div className="skills__data">
-              <div className="skills__names">
                 <img src="/assets/img/cypress.svg" alt="" />
                 <i class="skills__icon"></i>
                 <span className="skills__name">CYPRESS</span>
               </div>
             </div>
-
-            
 
             <div className="skills__data">
               <div className="skills__names">
@@ -104,18 +106,14 @@ const Skills = () => {
                 </span>
               </div>
             </div>
-            
 
             <div className="skills__data">
               <div className="skills__names">
                 <i className="bx bxs-paint skills__icon"></i>
-                <span className="skills__name">UI/UX</span>
+                <span className="skills__name">FIGMA</span>
               </div>
             </div>
           </div>
-
-          
-          
 
           <div>
             <img src="assets/img/work3.jpg" alt="" className="skills__img" />

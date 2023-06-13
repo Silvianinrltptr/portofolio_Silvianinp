@@ -3,9 +3,7 @@ import "./Home.css";
 
 const Home = () => {
   const handleContact = (e) => {
-    window.open(
-      `https://api.whatsapp.com/send?phone=6288709717898&text=haloo`
-    );
+    window.open(`https://api.whatsapp.com/send?phone=6288709717898&text=haloo`);
   };
   return (
     <div>
@@ -16,7 +14,8 @@ const Home = () => {
               Hallo,
               <br />
               Saya <span className="home__title-color">Silviani</span>
-              <br />Associate QA Engineer
+              <br />
+              Quality Assurance Engineer
             </h1>
 
             <a

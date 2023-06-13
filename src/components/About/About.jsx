@@ -17,11 +17,10 @@ const About = () => {
               Saya Silviani Nurlita Putri
             </h2>
             <p className="about__text">
-            I am a person who is interested in the world of technology,
-            interested in learning new things. I like to find solutions or solve
-            problems in programs, gadgets, or life. who want to have a career in the world
-            quality assurance by having a software Quality Assurance skill base
-            java, cucumber, selenium, Katalon studio, api automation, etc.
+              fresh graduate who wants a career in technology and wants to jump
+              into the world of Quality Assurance has bootcamp experience/Full
+              stack Quality Assurance Automation Testing training and has worked
+              as a Quality Assurance Engineer for 1 year
             </p>
           </div>
         </div>

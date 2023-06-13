@@ -68,7 +68,7 @@ const Navbar = () => {
                     setShowMenu(false);
                   }}
                 >
-                  Skills
+                  Skills Tools
                 </a>
               </li>
               <li className="nav__item">

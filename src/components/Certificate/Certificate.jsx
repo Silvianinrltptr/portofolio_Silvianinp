@@ -10,7 +10,6 @@ const Certificate = () => {
         <h2 className="section-title">Certificate</h2>
 
         <div className="certificate__container bd-grid">
-          
           {/* <Card
             hoverable
             className="certificate__img"
@@ -121,6 +120,28 @@ const Certificate = () => {
                   objectFit: "contain",
                   padding: 8,
                 }}
+                src="/assets/certificate/puppeteerMocha.png"
+              />
+            }
+          >
+            <Meta
+              title={"Automated Software Testing With Puppeteer"}
+              description={false}
+            />
+          </Card>
+
+          <Card
+            hoverable
+            className="certificate__img"
+            style={{ width: 310 }}
+            cover={
+              <Image
+                width={310}
+                height={200}
+                style={{
+                  objectFit: "contain",
+                  padding: 8,
+                }}
                 src="/assets/certificate/cypress.png"
               />
             }
@@ -130,6 +151,31 @@ const Certificate = () => {
               description={false}
             />
           </Card>
+
+          <Card
+            hoverable
+            className="certificate__img"
+            style={{ width: 310 }}
+            cover={
+              <Image
+                width={310}
+                height={200}
+                style={{
+                  objectFit: "contain",
+                  padding: 8,
+                }}
+                src="/assets/certificate/Arkademi.png"
+              />
+            }
+          >
+            <Meta
+              title={
+                "Mempelajari Quality Assurance (QA) Produk Digital untuk Menjadi Tester Software"
+              }
+              description={false}
+            />
+          </Card>
+
           <Card
             hoverable
             className="certificate__img"
@@ -146,10 +192,7 @@ const Certificate = () => {
               />
             }
           >
-            <Meta
-              title={"Internship at Telkom"}
-              description={false}
-            />
+            <Meta title={"Internship at Telkom"} description={false} />
           </Card>
         </div>
       </section>
