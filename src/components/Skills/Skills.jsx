@@ -32,7 +32,7 @@ const Skills = () => {
 
             <div className="skills__data">
               <div className="skills__names">
-                <img src="/assets/img/puppeteer.png" alt="" />
+                <img src="/assets/img/selenium.svg" alt="" />
                 <i className="skills__icon"></i>
                 <span className="skills__name">PUPPETEER MOCHA</span>
               </div>
@@ -48,14 +48,14 @@ const Skills = () => {
 
             <div className="skills__data">
               <div className="skills__names">
-                <img src="/assets/img/testProject.png" alt="" />
+                <img src="/assets/img/katalon.svg" alt="" />
                 <i class="skills__icon"></i>
                 <span className="skills__name">TEST PROJECT</span>
               </div>
             </div>
             <div className="skills__data">
               <div className="skills__names">
-                <img src="/assets/img/cucumber.png" alt="" />
+                <img src="/assets/img/katalon.svg" alt="" />
                 <i class="skills__icon"></i>
                 <span className="skills__name">CUCUMBER</span>
               </div>
@@ -70,7 +70,7 @@ const Skills = () => {
 
             <div className="skills__data">
               <div className="skills__names">
-                <img src="/assets/img/postman.png" alt="" />
+                <img src="/assets/img/katalon.svg" alt="" />
                 <i class="skills__icon"></i>
                 <span className="skills__name">POSTMAN</span>
               </div>
